@@ -1,9 +1,11 @@
 {
   "name": "ify",
   "version": "1.0.0",
-  "description": "",
+  "description": "Ify's anything.",
   "main": "index.js",
-  "bin": "bin.js",
+  "bin": {
+    "ify": "bin.js"
+  },
   "scripts": {
     "test": "node test"
   },
@@ -11,5 +13,16 @@
   "license": "ISC",
   "devDependencies": {
     "grape": "^1.0.1"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KoryNunn/ify.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KoryNunn/ify/issues"
+  },
+  "homepage": "https://github.com/KoryNunn/ify"
 }
