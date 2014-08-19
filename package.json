@@ -1,0 +1,15 @@
+{
+  "name": "ify",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "bin.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "grape": "^1.0.1"
+  }
+}
