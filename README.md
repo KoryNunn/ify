@@ -9,4 +9,6 @@ Ify's anything.
 
 ## CLI
 
-	
+	ify literally anything
+
+	-> 'literally anythingify'
