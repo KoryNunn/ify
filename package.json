@@ -1,5 +1,6 @@
 {
   "name": "ify",
+  "author": "Kory Nunn <knunn187@gmail.com>",
   "version": "2.0.0",
   "description": "Ify's anything.",
   "main": "index.js",
@@ -9,7 +10,6 @@
   "scripts": {
     "test": "node test"
   },
-  "author": "",
   "license": "ISC",
   "devDependencies": {
     "grape": "^1.0.1"
@@ -24,5 +24,13 @@
   "bugs": {
     "url": "https://github.com/KoryNunn/ify/issues"
   },
+  "keywords": [
+    "ify",
+    "jQuery",
+    "big data",
+    "reactive programming",
+    "Commutative, Associative and Distributive",
+    "pants"
+  ],
   "homepage": "https://github.com/KoryNunn/ify"
 }
