@@ -4,11 +4,11 @@ Ify's anything.
 
 ## Usage
 
-	ify('thing')
-	// -> 'thingify'
+    ify('thing')
+    // -> 'thingify'
 
 ## CLI
 
-	ify literally anything
+    ify literally anything
 
-	-> 'literally anythingify'
+    -> 'literally anythingify'
