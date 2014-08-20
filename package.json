@@ -8,14 +8,19 @@
     "ify": "bin.js"
   },
   "scripts": {
-    "test": "node test"
+    "test": "node tests"
   },
-  "license": "ISC",
+  "author": "Kory Nunn <knunn187@gmail.com>",
+  "contributors": [
+    "Kory Nunn <knunn187@gmail.com>",
+    "Maurice Butler <maurice.butler@gmail.com>"
+  ],
+  "license": "MIT",
   "devDependencies": {
     "grape": "^1.0.1"
   },
   "directories": {
-    "test": "test"
+    "test": "tests"
   },
   "repository": {
     "type": "git",
