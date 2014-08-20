@@ -1,7 +1,7 @@
 {
   "name": "ify",
   "author": "Kory Nunn <knunn187@gmail.com>",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "Ify's anything.",
   "main": "index.js",
   "bin": {
@@ -10,7 +10,6 @@
   "scripts": {
     "test": "node tests"
   },
-  "author": "Kory Nunn <knunn187@gmail.com>",
   "contributors": [
     "Kory Nunn <knunn187@gmail.com>",
     "Maurice Butler <maurice.butler@gmail.com>"
